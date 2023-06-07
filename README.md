@@ -23,3 +23,13 @@ Total Borrowed for Aave V2
 ![image](https://github.com/Holluz/Aave_analysis/assets/128638873/6eb24a88-b6a4-41c6-857f-28efd9aea69a)
 
 Total Supplied for Aave V2
+
+![image](https://github.com/Holluz/Aave_analysis/assets/128638873/0c756f19-00f3-497d-99d3-ddabbc3e912b)
+
+Total borrowed for Aave V2 by Asset
+
+![image](https://github.com/Holluz/Aave_analysis/assets/128638873/34a9f846-4872-4d7a-a447-9d87bd3a6146)
+
+Total Supplied for Aave V2 by Asset
+
+
