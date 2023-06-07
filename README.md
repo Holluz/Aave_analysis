@@ -17,3 +17,5 @@ We hope to solve these four main questions
 
 
 ![image](https://github.com/Holluz/Aave_analysis/assets/128638873/a2eaaefe-bc6e-4451-87a5-c9c5ccf58c51)
+
+Total Borrowed for Aave V2
